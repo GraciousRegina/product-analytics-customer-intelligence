@@ -1,5 +1,4 @@
-# Product Analytics & Customer Intelligence Platform
-
+# Customer Intelligence & Retention Analytics Platform
 End-to-end retail analytics portfolio project combining **Python, SQL, customer segmentation, cohort analysis, statistical testing, machine learning, market-basket analysis, and Plotly dashboards**.
 
 ## Project highlights
